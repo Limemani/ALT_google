@@ -1,0 +1,3 @@
+﻿  goulgy.cpp
+C:\Projects\goulgy\goulgy.cpp(12,20): warning C4018: <: несоответствие типов со знаком и без знака
+  goulgy.vcxproj -> C:\Projects\goulgy\Debug\goulgy.exe

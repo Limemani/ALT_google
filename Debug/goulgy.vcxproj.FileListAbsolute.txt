@@ -1,0 +1,2 @@
+C:\Projects\goulgy\Debug\goulgy.exe
+C:\Projects\goulgy\Debug\goulgy.pdb
